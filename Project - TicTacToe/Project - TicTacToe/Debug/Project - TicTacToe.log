@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\University\Third Semester\3Rd Semester\Data Structures and Algorithms - (DSA)\Lab\Project\Project - TicTacToe\Project - TicTacToe\Source.cpp(145,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\University\Third Semester\3Rd Semester\Data Structures and Algorithms - (DSA)\Lab\Project\Project - TicTacToe\Project - TicTacToe\Source.cpp(222,22): warning C4018: '<': signed/unsigned mismatch
+E:\University\Third Semester\3Rd Semester\Data Structures and Algorithms - (DSA)\Lab\Project\Project - TicTacToe\Project - TicTacToe\Source.cpp(235,21): warning C4018: '<': signed/unsigned mismatch
+  Project - TicTacToe.vcxproj -> E:\University\Third Semester\3Rd Semester\Data Structures and Algorithms - (DSA)\Lab\Project\Project - TicTacToe\Debug\Project - TicTacToe.exe
